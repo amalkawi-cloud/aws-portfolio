@@ -25,7 +25,7 @@ To launch a functional, dynamic website (WordPress blog) on AWS, demonstrating p
 
 ## 🔗 Live Demo
 * **Live Blog URL:** [18.221.129.60]
-* **Status:** [Running]
+* **Status:** [Offline]
 
 ## 💡 Lessons Learned
 This project was a deep dive into **Infrastructure as a Service (IaaS)**. It proved I can configure a server from scratch, manage network security via Security Groups, and troubleshoot common Linux/PHP configuration errors in a real-world cloud environment.
