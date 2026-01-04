@@ -1,4 +1,4 @@
-# AWS Project 3: Serverless Static Website (S3 + CloudFront CDN)
+# AWS Project: Serverless Static Website (S3 + CloudFront CDN)
 
 ## 🎯 Goal
 To deploy a fast, globally-distributed website without managing any servers (serverless infrastructure), minimizing costs and improving performance.
