@@ -1,4 +1,4 @@
-# AWS Project 4: Automated Serverless Infrastructure (Terraform + CloudFront CDN)
+# AWS Project: Automated Serverless Infrastructure (Terraform + CloudFront CDN)
 ## 🎯 Goal
 To transition from manual cloud configuration to Infrastructure as Code (IaC) by automating the deployment of a secure, globally-distributed static website. This project focuses on repeatability, security-first architecture, and professional DevOps workflows.
 
