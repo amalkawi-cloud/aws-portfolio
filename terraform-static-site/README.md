@@ -2,6 +2,8 @@
 ## 🎯 Goal
 To transition from manual cloud configuration to Infrastructure as Code (IaC) by automating the deployment of a secure, globally-distributed static website. This project focuses on repeatability, security-first architecture, and professional DevOps workflows.
 
+Live Site: dlft0us0akqh3.cloudfront.net
+
 ## 🛠️ AWS Services & Tools Demonstrated
 * **Terraform (IaC)**: Used to define and provision the entire infrastructure stack through declarative HCL code.
 
